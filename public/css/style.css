@@ -2,3 +2,14 @@
    
    background: linear-gradient(120deg, #4c79d3 45%, #ffffff 45%) no-repeat fixed;
 }
+
+.text-login {
+   color: #ffffff;
+   font-size: 18px;
+   font-weight: 500;
+}
+
+.coins {
+   position: absolute;
+   bottom: 100px;
+}
